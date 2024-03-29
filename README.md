@@ -1,7 +1,7 @@
 <h1>Sorteador de amigo secretro</h1>
 
 <h2>Sobre</h2>
-<p>Projeto utilizado para prática de lógica de programação na Alura, neste projeto foi confeccionado um sorteador de nomes para um amigo secreto</p>
+<p>Projeto utilizado para prática de lógica de programação na Alura, neste projeto foi confeccionado um sorteador de nomes para um amigo secreto.</p>
 <a href = "https://amigo-secreto-eight-steel.vercel.app/" class = "link">Clique aqui para acessar o projeto</a>
 </br> </br> </br>
 ##Tecnologias
